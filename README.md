@@ -1,5 +1,8 @@
-# DEEP LEARNING COURSE
+# DEEP LEARNING REPO
 
-En este repo creare todos los ejemplos mostrados en el courso de SensIO con notas adicionales.
+En este repositorio replicaré y comentaré ejemplos de aplicaciones de deep learning,
+además de algunos tips de teoría.
 
-[Enlace al canal de YT](https://www.youtube.com/@juansensio)
+## Fuentes:
+
+- [Enlace al canal de YT](https://www.youtube.com/@juansensio)
